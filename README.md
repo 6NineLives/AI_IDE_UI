@@ -5,5 +5,3 @@
 <p id="description">A frontend interface for a browser based AI-driven IDE providing a streamlined workspace for developers to manage and interact with AI resources and projects.</p>
 
 <h2>🚀 Demo</h2>
-
-[vercel.com/AI\_IDE\_UI](vercel.com/AI_IDE_UI)
